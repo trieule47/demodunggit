@@ -14,6 +14,7 @@ namespace Products
          // Console.WriteLine($"Hello! c# here $a {hang2.Name()}");
          
          TestEnum();
+         Console.WriteLine("Hello mấy C#");
 
       }
 
