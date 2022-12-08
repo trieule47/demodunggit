@@ -4,7 +4,6 @@ using System;
 //hi 
 // chào
 // create a fork and request
-
 namespace Products
 {
    public class Products
@@ -18,6 +17,7 @@ namespace Products
          // Console.WriteLine($"Hello! c# here $a {hang2.Name()}");
          
          TestEnum();
+         Console.WriteLine("Hello mấy C#");
 
       }
 
