@@ -6,6 +6,7 @@ using System;
 // letrieu c0mmit
 // letrieu alo
 // merge and revert
+
 namespace Products
 {
    public class Products
@@ -18,6 +19,7 @@ namespace Products
          // Category hang2 = new Category("Trieu");
          // Console.WriteLine($"Hello! c# here $a {hang2.Name()}");
          
+         Console.WriteLine("letrieu12 comment");
          TestEnum();
 
       }
