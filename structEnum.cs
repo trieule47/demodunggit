@@ -1,10 +1,8 @@
 using System;
 //trieu
 // hello
-//hi 
-// chào
-// create a fork and request
-// revert
+// TrieuLe47 merge
+// commit to revert
 
 namespace Products
 {
